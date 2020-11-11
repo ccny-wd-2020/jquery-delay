@@ -1,0 +1,28 @@
+.time < img {
+  height: 200px;
+  width: 200px;
+}
+
+hr {
+  height:5px;
+  width: 75%;
+  background-color: black;
+  margin-top: 30px;
+  display: none;
+}
+
+.time > div {
+  text-align: center;
+  margin-top: -30px;
+  display: none;
+}
+
+.time > p {
+  font-size: 24px;
+}
+
+.marker {
+  border-style: solid;
+  width: 20px;
+  display: initial;
+}
