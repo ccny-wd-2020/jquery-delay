@@ -1,0 +1,22 @@
+span {
+  display: none;
+  font-size: 25px;
+}
+
+#span-one {
+  color: red;
+}
+
+#span-two {
+  color: blue;
+}
+
+.my-name-is {
+  display: flex;
+}
+
+img {
+  display: none;
+  height: 250px;
+  width: 250px;
+}
